@@ -1,12 +1,12 @@
-# Contributing to [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+# Contributing to [github-readme-stats](https://github.com/HossamHoussien/github-readme-stats")
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
-- Reporting a issue
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new features
-- Becoming a maintainer
+-   Reporting a issue
+-   Discussing the current state of the code
+-   Submitting a fix
+-   Proposing new features
+-   Becoming a maintainer
 
 ## All Changes Happen Through Pull Requests
 
@@ -43,22 +43,22 @@ While creating the Pull request to add a new theme **don't forget to add a scree
 
 In short, when you submit changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
 
-## Report issues/bugs using GitHub's [issues](https://github.com/anuraghazra/github-readme-stats/issues)
+## Report issues/bugs using GitHub's [issues](https://github.com/HossamHoussien/github-readme-stats"/issues)
 
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/anuraghazra/github-readme-stats/issues/new/choose); it's that easy!
+We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/HossamHoussien/github-readme-stats"/issues/new/choose); it's that easy!
 
 ### Bug Reports
 
 **Great Bug Reports** tend to have:
 
-- A quick summary and/or background
-- Steps to reproduce
-  - Be specific!
-  - Share the snapshot, if possible.
-  - GitHub Readme Stats' live link
-- What actually happens
-- What you expected would happen
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+-   A quick summary and/or background
+-   Steps to reproduce
+    -   Be specific!
+    -   Share the snapshot, if possible.
+    -   GitHub Readme Stats' live link
+-   What actually happens
+-   What you expected would happen
+-   Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 People _love_ thorough bug reports. I'm not even kidding.
 
@@ -66,9 +66,9 @@ People _love_ thorough bug reports. I'm not even kidding.
 
 **Great Feature Requests** tend to have:
 
-- A quick idea summary
-- What & why you wanted to add the specific feature
-- Additional Context like images, links to resources to implement the feature etc etc.
+-   A quick idea summary
+-   What & why you wanted to add the specific feature
+-   Additional Context like images, links to resources to implement the feature etc etc.
 
 ## License
 
