@@ -44,7 +44,6 @@ async function fetchTopLanguages(username) {
 	}
 
 	let repoNodes = res.data.data.user.repositories.nodes;
-
 	repoNodes = repoNodes
 		.filter((node) => {
 			return node.languages.edges.length > 0;
@@ -73,7 +72,7 @@ async function fetchTopLanguages(username) {
 		}, {});
 
 	const topLangs = Object.keys(repoNodes)
-		.slice(0, 6)
+		// .slice(0, 5)
 		.reduce((result, key) => {
 			result[key] = repoNodes[key];
 			return result;
